@@ -41,7 +41,7 @@ const Navbar = () => {
         <Link href={""} className='text-3xl md:text-5xl text-white font-semibold'>
         <Image className="place-self-center md:my-5 bg-transparent"
             src='/images/Logo.png'
-            alt='hero-image'
+            alt='PAYAL'
             height={50}
             width={90}
           />
