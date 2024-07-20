@@ -43,7 +43,7 @@ const Skills = () => {
 
   return (
     <section id='Skills'>
-      <div className='flex flex-row mt-8 max-w-full gap-20 justify-center'>
+      <div className='flex flex-row mt-8 max-w-full md:gap-20 gap-10 justify-center'>
       <TabButton
         selectTab={() => handleTabChange('Skills')}
         active={tab === 'Skills'}>
