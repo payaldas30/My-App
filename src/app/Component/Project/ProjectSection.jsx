@@ -5,7 +5,7 @@ const projectsData = [
     {
       id: 1,
       title: "My-music Website",
-      description: "A A fully responsive  music website using HTML,CSSand JS.",
+      description: "A fully responsive  music website using HTML,CSSand JS.",
       image: "/images/1.png",
       gitUrl: "https://github.com/payaldas30/My-Music-Web",
       previewUrl: "https://payaldas30.github.io/My-Music-Web/",
@@ -36,8 +36,8 @@ const projectsData = [
     },
     {
       id: 5,
-      title: "Form-Submition Demo",
-      description: "A responsive Form-Submition Demo using HTML,tailwindcss and jQuery",
+      title: "Form-Submission Demo",
+      description: "A responsive Form-Submission Demo using HTML,tailwindcss and jQuery",
       image: "/images/5.webp",
       gitUrl: "https://github.com/payaldas30/Form-submition-",
       previewUrl: "https://payaldas30.github.io/Form-submition-/",

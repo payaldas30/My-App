@@ -31,7 +31,7 @@ const Herosection = () => {
         <p className='text-[#ADB7BE] text-lg lg:text-xl  mb-6 mt-4'>I&apos;m a web designer and experience is to create a website design such as frontend and backend and many more...........<br/>Welcome to the dynamic world where artistry meets technology!</p>
         <div>
           <button className='px-6 py-3 my-1  w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-300  text-white bg-gradient-to-br from-blue-600 via-purple-600 to-pink-500'>Hire me</button>
-          <button className='px-6 py-3 my-2 w-full sm:w-fit rounded-full mr-4 bg-transparant hover:bg-white hover:text-black  text-white border  border-white' >Downlod CV</button>
+          <button className='px-6 py-3 my-2 w-full sm:w-fit rounded-full mr-4 bg-transparant hover:bg-white hover:text-black  text-white border  border-white' >Download CV</button>
           {/* npm install react-type-animation--> for animation */}
         </div>
         </div>
