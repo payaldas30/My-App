@@ -38,14 +38,14 @@ const Navbar = () => {
 
     <nav className='fixed top-0 right-0 left-0 z-10 bg-[#13163F] bg-opacity-90'>
       <div className='flex flex-wrap items-center justify-between mx-auto px-4'>
-        <Link href={""} className='text-3xl md:text-5xl text-white font-semibold'>
+        <div className='text-3xl md:text-5xl text-white font-semibold'>
         <Image className="place-self-center md:my-5 bg-transparent"
             src='/images/LogoP.jpg'
             alt='PAYAL'
             height={45}
             width={65}
           />
-        </Link>
+        </div>
         <div className='mobile-menu block md:hidden '>
           { !navbarOpen?(
               <button onClick={()=>setnavbarOpen(true)} 
