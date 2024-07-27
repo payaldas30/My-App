@@ -3,7 +3,7 @@ import React from 'react';
 const educationData = [
   {
     key: 1,
-    title: 'B.Tech in Electronics and Instrumentation Engineering',
+    title: 'B.Tech Degree',
     location: 'National Institute of Technology, Rourkela',
     description: 'Pursuing a Bachelor of Technology in Electronics and Instrumentation Engineering.'
   },
@@ -43,10 +43,10 @@ const Education = () => {
 
               {/* Timeline Content (Right Side) */}
               <div className="md:col-span-4 w-full">
-                <div className="w-full h-full bg-indigo-400 rounded-md p-4">
-                  <h1 className="text-white text-xl font-medium py-2">{item.title}</h1>
+                <div className="w-full h-full bg-gradient-to-br from-purple-500 to-pink-700 rounded-md p-4">
+                  <h1 className="text-[#47206b] md:text-2xl text-xl font-medium py-2">{item.title}</h1>
                   <h2 className="text-white text-lg">{item.location}</h2>
-                  <p className="text-gray-100 sm:text-sm text-xs">{item.description}</p>
+                  <p className="text-gray-800 sm:text-sm text-xs">{item.description}</p>
                 </div>
               </div>
 

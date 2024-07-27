@@ -40,10 +40,10 @@ const Navbar = () => {
       <div className='flex flex-wrap items-center justify-between mx-auto px-4'>
         <Link href={""} className='text-3xl md:text-5xl text-white font-semibold'>
         <Image className="place-self-center md:my-5 bg-transparent"
-            src='/images/Logo.png'
+            src='/images/LogoP.jpg'
             alt='PAYAL'
-            height={50}
-            width={90}
+            height={45}
+            width={65}
           />
         </Link>
         <div className='mobile-menu block md:hidden '>
