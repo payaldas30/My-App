@@ -6,7 +6,7 @@ const About = () => {
     <section className='text-white' id='About'>
         <h2 className='text-center mb-6 text-4xl sm:text-5xl lg:text-6xl  mt-20 text-transparent bg-clip-text bg-gradient-to-br from-purple-500 to-pink-700 font-extrabold '>About  <span className='text-white'>Me</span></h2>
         <div className='flex flex-col  md:grid md:grid-cols-2 gap-4 items-center bg-[#8647ad] px-4 xl:gap-8 sm:py-16 xl:px-16'>
-         <Image className='mb-4 pt-4'
+         <Image className='mb-4 pt-4 hidden md:flex'
             src='/images/Dp.jpg'
             alt='hero-image'
             height={200}
