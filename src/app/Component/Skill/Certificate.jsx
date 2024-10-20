@@ -14,6 +14,8 @@ const Certificate = () => {
                 <ul className='mb-3'>Secured 3rd position in <span className='text-[#a855f7]'>interNIt YOGA</span> competition</ul>
                 <ul className='mb-3'>Organizer of <span className='text-[#a855f7]'>HACKODISHA </span> 4.0-Hackathon</ul>
                 <ul className='mb-3'>Coordinator of <span className='text-[#a855f7]'>INTERNATIONAL YOGA</span> DAY</ul>
+                <ul className='mb-3'>Tech-team Coordinator of <span className='text-[#a855f7]'>COSMO-Multithnic</span> FEST</ul>
+                <ul className='mb-3'>Student Coordinator of <span className='text-[#a855f7]'> IPIC </span> NIT R</ul>
             </li>
         
         <h2 className=' mb-6 text-3xl sm:text-4xl lg:text-5xl   text-transparent  bg-clip-text bg-gradient-to-tr from-purple-500 to-pink-700 font-extrabold '>soft-skills</h2>
